@@ -5,6 +5,14 @@ This is a raspbian image support CPS virtualize framework environment for implem
 
 The framework shows that how we can implement the bridge framework about sensor and actuator network to flexible, robustness on the web.
 
+Download or clone git
+-------------------------
+
+$> git clone https://github.com/not001praween001/Raspberry-Pi-CPS-SN-trial.git
+
+$> cd Raspberry-Pi-CPS-SN-trial
+
+
 Image prepare
 -------------------------
 
