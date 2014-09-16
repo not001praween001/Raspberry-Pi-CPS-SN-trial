@@ -24,7 +24,7 @@ $> tar -xvf RaspberryPi-SN-backup_20121030.tgz
 
 $> sudo dd if=RaspberryPi-SN-backup_20121030 of=/dev/sdX bs=1M
 
-X is device name. The device should more than 8GB.
+X is device name. The device should be more than 8GB.
 
 Login
 -------------------------
