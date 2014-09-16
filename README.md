@@ -13,8 +13,8 @@ $> git clone https://github.com/not001praween001/Raspberry-Pi-CPS-SN-trial.git
 $> cd Raspberry-Pi-CPS-SN-trial
 
 
-Image prepare
--------------------------
+Image preparation (Burning Raspberry-Pi-CPS kernel)
+---------------------------------------------------
 
 The image is splited compressing data file. You can merge all splited file by "cat" on Linux environment. Then, uncompressed image file to your harddrive. The raw image file name is "RaspberryPi-SN-backup_20121030". You can burn it to your RaspberryPis SD card. Image file size is 8GB.
 
