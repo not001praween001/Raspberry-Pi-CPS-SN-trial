@@ -5,6 +5,14 @@ This is a raspbian image support CPS virtualize environment for implement sensor
 
 The environment shows that how we can implement the bridge environment about sensor and actuator network to flexible, robustness on the web from small scale to large scale of such environment. Because, the environment is now developing, I am very glad to welcome the people who love to develop it together. Please, contact me directly.
 
+Get Started
+===========
+The kernel is coorperated with [BlueSky cloud](https://github.com/not001praween001/BlueSkyLoggerCloudBINResearchVer1.0).The preparation has two side below.
+
+・ Server side. See the [BlueSky cloud](https://github.com/not001praween001/BlueSkyLoggerCloudBINResearchVer1.0).
+・ Embedded Device side. See the next step.
+
+
 Download or clone git
 -------------------------
 
