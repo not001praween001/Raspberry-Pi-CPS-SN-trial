@@ -3,7 +3,7 @@ Raspberry-Pi-CPS-SN-trial
 
 This is a raspbian image support CPS virtualize environment for implement sensor and actuator network flexible on the web. It is simple environment for education and non-profit objective embedded Linux kernel image. The image is trail and backup with non-profit propose. The environment is automatively running with Blue-sky cloud server. We will not responding anymore with the people who use this image with another ojective written above.
 
-The environment shows that how we can implement the bridge environment about sensor and actuator network to flexible, robustness on the web from small scale to large scale of such environment. Because, the environment is now developing, I am very glad to welcome the people who love to develop it together. Please, contact me directly.
+The environment shows that how we can implement the bridge environment about sensor and actuator network to flexible, robustness on the web from small scale to large scale of such environment. Because, the environment is now developing, We're very glad to welcome the people who love to help us to develop it together. Please, contact me directly. Thanks for your help.
 
 Getting Started
 ===========
