@@ -13,7 +13,7 @@ This kernel has been modified from standard Raspbian kernel. You can learn about
 
 ・ Step2: Prepare the Embedded Devices side. See the next topic below respectively.
 
-Then you can enjoy about our environmental.
+Then you can enjoy about our virtual environmental CPS.
 
 Download or clone git
 -------------------------
