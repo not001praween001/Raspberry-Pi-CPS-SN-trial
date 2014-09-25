@@ -35,10 +35,11 @@ X is device name. The SD Memory Card capacity should be more than 8GB.
 Login
 -------------------------
 
-Insert your burned SD card into your Raspberry Pis. Then, plug your pi electric power and HDMI cable.
+Insert your burned SD card into your Raspberry PIs. Then, plug your pi electric power and HDMI cable.
 
 You can login via both tty serial and SSH.
 
- User name: pi
-
- Password: raspberry
+| Terminal login| |
+|:---------|:-------------------|
+| ***Username:*** | pi                 |
+| ***Password:*** | raspberry          |
