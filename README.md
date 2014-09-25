@@ -18,21 +18,20 @@ Then you can enjoy about our environmental.
 Download or clone git
 -------------------------
 
-$> git clone https://github.com/not001praween001/Raspberry-Pi-CPS-SN-trial.git
-
-$> cd Raspberry-Pi-CPS-SN-trial
-
+```shell
+git clone https://github.com/not001praween001/Raspberry-Pi-CPS-SN-trial.git
+cd Raspberry-Pi-CPS-SN-trial
+```
 
 Image preparation (Burning Raspberry-Pi-CPS kernel)
 ---------------------------------------------------
 
 The image is splited compressing data file. You can merge all splited file by "cat" on Linux environment. Then, uncompressed image file to your harddrive. The raw image file name is "RaspberryPi-SN-backup_20121030". You can burn it to your RaspberryPis SD card. Image file size is 8GB.
-
-$> cat RaspberryPi-SN-backup_20121030.tgz.* > RaspberryPi-SN-backup_20121030.tgz
-
-$> tar -xvf RaspberryPi-SN-backup_20121030.tgz
-
-$> sudo dd if=RaspberryPi-SN-backup_20121030 of=/dev/sdX bs=1M
+```shell
+cat RaspberryPi-SN-backup_20121030.tgz.* > RaspberryPi-SN-backup_20121030.tgz
+tar -xvf RaspberryPi-SN-backup_20121030.tgz
+sudo dd if=RaspberryPi-SN-backup_20121030 of=/dev/sdX bs=1M
+```
 
 X is device name. The SD Memory Card capacity should be more than 8GB.
 
@@ -43,6 +42,6 @@ Insert your burned SD card into your Raspberry Pis. Then, plug your pi electric 
 
 You can login via both tty serial and SSH.
 
-User name: pi
+ User name: pi
 
-Password: raspberry
+ Password: raspberry
