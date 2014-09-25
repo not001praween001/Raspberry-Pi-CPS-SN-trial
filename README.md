@@ -17,12 +17,10 @@ Then you can enjoy about our environmental.
 
 Download or clone git
 -------------------------
-
 ```shell
 git clone https://github.com/not001praween001/Raspberry-Pi-CPS-SN-trial.git
 cd Raspberry-Pi-CPS-SN-trial
 ```
-
 Image preparation (Burning Raspberry-Pi-CPS kernel)
 ---------------------------------------------------
 
@@ -32,7 +30,6 @@ cat RaspberryPi-SN-backup_20121030.tgz.* > RaspberryPi-SN-backup_20121030.tgz
 tar -xvf RaspberryPi-SN-backup_20121030.tgz
 sudo dd if=RaspberryPi-SN-backup_20121030 of=/dev/sdX bs=1M
 ```
-
 X is device name. The SD Memory Card capacity should be more than 8GB.
 
 Login
