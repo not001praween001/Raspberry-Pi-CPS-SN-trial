@@ -28,7 +28,7 @@ The image is splited compressing data file. You can merge all splited file by "c
 ```shell
 cat RaspberryPi-SN-backup_20121030.tgz.* > RaspberryPi-SN-backup_20121030.tgz
 tar -xvf RaspberryPi-SN-backup_20121030.tgz
-sudo dd if=RaspberryPi-SN-backup_20121030 of=/dev/sdX bs=1M
+sudo dd if=RaspberryPi-SN-20121030 of=/dev/sdX bs=1M
 ```
 X is device name. The SD Memory Card capacity should be more than 8GB.
 
