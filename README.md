@@ -7,13 +7,13 @@ The environment shows that how we can implement the bridge environment about sen
 
 Getting Started
 ===========
-This kernel has been modified from standard Raspbian kernel. You can learn about the standard Raspbian at [here](http://www.raspberrypi.org/downloads/). And then using the Bluesky-Raspbian kernel image from [our project](www.bluesky-cps.org) repository. The Bluesky-Raspbian kernel is coorperated with [BlueSky cloud](https://github.com/not001praween001/BlueSkyLoggerCloudBINResearchVer1.0). The environment preparation has only two step  below.
+This kernel has been modified from standard Raspbian kernel. You can learn about the standard Raspbian at [here](http://www.raspberrypi.org/downloads/). And then using the Bluesky-Raspbian kernel image from [our project](http://www.bluesky-cps.org) repository. The Bluesky-Raspbian kernel is coorperated with [BlueSky cloud](https://github.com/not001praween001/BlueSkyLoggerCloudBINResearchVer1.0). The environment preparation has only two step  below.
 
 ・ Step1: Prepare the server side. See the [BlueSky cloud](https://github.com/not001praween001/BlueSkyLoggerCloudBINResearchVer1.0).
 
 ・ Step2: Prepare the Embedded Devices side. See the next topic below respectively.
 
-Then you can enjoy about our environmental.
+Then you can enjoy about our virtual environmental CPS.
 
 Download or clone git
 -------------------------
